@@ -1,0 +1,101 @@
+date,city,temperature_c,humidity,weather_condition
+2025-01-01,New York,19.4,71,Rainy
+2025-01-02,New York,33.8,78,Cloudy
+2025-01-03,New York,28.3,88,Rainy
+2025-01-04,New York,25.0,71,Rainy
+2025-01-05,New York,13.9,43,Partly Cloudy
+2025-01-06,New York,13.9,69,Partly Cloudy
+2025-01-07,New York,11.5,76,Sunny
+2025-01-08,New York,31.7,62,Sunny
+2025-01-09,New York,25.0,78,Cloudy
+2025-01-10,New York,27.7,84,Sunny
+2025-01-11,New York,10.5,54,Rainy
+2025-01-12,New York,34.2,82,Partly Cloudy
+2025-01-13,New York,30.8,68,Sunny
+2025-01-14,New York,15.3,75,Sunny
+2025-01-15,New York,14.5,52,Cloudy
+2025-01-16,New York,14.6,71,Cloudy
+2025-01-17,New York,17.6,46,Rainy
+2025-01-18,New York,23.1,61,Partly Cloudy
+2025-01-19,New York,20.8,67,Cloudy
+2025-01-20,New York,17.3,41,Sunny
+2025-01-21,New York,25.3,81,Partly Cloudy
+2025-01-22,New York,13.5,84,Partly Cloudy
+2025-01-23,New York,17.3,45,Sunny
+2025-01-24,New York,19.2,67,Cloudy
+2025-01-25,New York,21.4,67,Sunny
+2025-01-26,New York,29.6,83,Partly Cloudy
+2025-01-27,New York,15.0,83,Snow
+2025-01-28,New York,22.9,59,Snow
+2025-01-29,New York,24.8,69,Rainy
+2025-01-30,New York,11.2,50,Sunny
+2025-01-31,New York,25.2,67,Sunny
+2025-02-01,New York,14.3,64,Rainy
+2025-02-02,New York,11.6,78,Rainy
+2025-02-03,New York,33.7,72,Rainy
+2025-01-01,Chicago,34.1,40,Partly Cloudy
+2025-01-02,Chicago,30.2,66,Sunny
+2025-01-03,Chicago,17.6,52,Partly Cloudy
+2025-01-04,Chicago,12.4,80,Rainy
+2025-01-05,Chicago,27.1,42,Sunny
+2025-01-06,Chicago,21.0,78,Partly Cloudy
+2025-01-07,Chicago,13.1,45,Partly Cloudy
+2025-01-08,Chicago,22.4,47,Rainy
+2025-01-09,Chicago,10.9,66,Sunny
+2025-01-10,Chicago,32.7,48,Rainy
+2025-01-11,Chicago,16.5,76,Sunny
+2025-01-12,Chicago,26.6,72,Snow
+2025-01-13,Chicago,17.8,81,Cloudy
+2025-01-14,Chicago,23.0,83,Cloudy
+2025-01-15,Chicago,23.7,63,Cloudy
+2025-01-16,Chicago,14.6,54,Rainy
+2025-01-17,Chicago,34.2,71,Snow
+2025-01-18,Chicago,29.4,71,Sunny
+2025-01-19,Chicago,33.5,63,Partly Cloudy
+2025-01-20,Chicago,32.4,80,Sunny
+2025-01-21,Chicago,24.9,88,Partly Cloudy
+2025-01-22,Chicago,33.0,88,Sunny
+2025-01-23,Chicago,12.2,51,Snow
+2025-01-24,Chicago,14.9,78,Partly Cloudy
+2025-01-25,Chicago,11.1,41,Rainy
+2025-01-26,Chicago,18.1,42,Sunny
+2025-01-27,Chicago,19.7,88,Sunny
+2025-01-28,Chicago,16.8,76,Partly Cloudy
+2025-01-29,Chicago,30.7,88,Rainy
+2025-01-30,Chicago,18.9,56,Rainy
+2025-01-31,Chicago,17.0,88,Snow
+2025-02-01,Chicago,23.6,41,Rainy
+2025-02-02,Chicago,13.5,41,Rainy
+2025-01-01,Los Angeles,30.1,67,Rainy
+2025-01-02,Los Angeles,11.9,62,Cloudy
+2025-01-03,Los Angeles,34.7,76,Snow
+2025-01-04,Los Angeles,29.3,71,Sunny
+2025-01-05,Los Angeles,15.0,72,Partly Cloudy
+2025-01-06,Los Angeles,10.1,40,Sunny
+2025-01-07,Los Angeles,30.4,58,Snow
+2025-01-08,Los Angeles,27.7,41,Partly Cloudy
+2025-01-09,Los Angeles,28.2,83,Snow
+2025-01-10,Los Angeles,29.3,65,Rainy
+2025-01-11,Los Angeles,11.9,71,Partly Cloudy
+2025-01-12,Los Angeles,19.0,45,Rainy
+2025-01-13,Los Angeles,12.9,71,Sunny
+2025-01-14,Los Angeles,31.6,43,Sunny
+2025-01-15,Los Angeles,25.6,50,Partly Cloudy
+2025-01-16,Los Angeles,18.3,56,Partly Cloudy
+2025-01-17,Los Angeles,11.6,77,Snow
+2025-01-18,Los Angeles,17.8,63,Snow
+2025-01-19,Los Angeles,18.1,44,Rainy
+2025-01-20,Los Angeles,28.2,73,Partly Cloudy
+2025-01-21,Los Angeles,25.9,45,Sunny
+2025-01-22,Los Angeles,32.2,61,Snow
+2025-01-23,Los Angeles,21.8,50,Snow
+2025-01-24,Los Angeles,13.0,87,Sunny
+2025-01-25,Los Angeles,27.8,55,Snow
+2025-01-26,Los Angeles,29.0,72,Rainy
+2025-01-27,Los Angeles,24.0,48,Partly Cloudy
+2025-01-28,Los Angeles,29.3,45,Sunny
+2025-01-29,Los Angeles,22.3,55,Partly Cloudy
+2025-01-30,Los Angeles,23.1,68,Snow
+2025-01-31,Los Angeles,20.7,42,Snow
+2025-02-01,Los Angeles,10.6,59,Sunny
+2025-02-02,Los Angeles,12.7,75,Rainy
