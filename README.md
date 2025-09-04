@@ -71,7 +71,3 @@ The data pipeline is structured into the following stages:
 3. Configure data sources (CSV, JSON, OpenWeather API).
 4. Run the Airflow DAGs to execute the ETL pipeline.
 5. Query the Gold Layer for analytics and insights.
-
----
-
-## 📂 Repository Structure
